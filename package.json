@@ -1,0 +1,25 @@
+{
+  "name": "acquisitions-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impossibleiman/acquisitions-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/impossibleiman/acquisitions-tutorial/issues"
+  },
+  "homepage": "https://github.com/impossibleiman/acquisitions-tutorial#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
